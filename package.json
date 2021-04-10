@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-axuebin",
+  "version": "0.0.1-beta.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "axuebin",
+    "email": "me@axuebin.com"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=7.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.10.0",
+    "@typescript-eslint/parser": "^4.10.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.15.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^4.0.4",
+    "eslint-plugin-vue": "^7.3.0",
+    "typescript": "^4.1.2",
+    "vue-eslint-parser": "^7.3.0"
+  }
+}
